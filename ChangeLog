@@ -1,5 +1,10 @@
 2014-04-11  Pierre Langlois  <pierre.langlois@embecosm.com>
 
+	* embecosm-logo/embecosm-logo.scad: Create.
+	* embecosm-logo/embecosm-logo.stl: Create.
+
+2014-04-11  Pierre Langlois  <pierre.langlois@embecosm.com>
+
 	* ChangeLog: Create.
 	* LICENCE: Create.
 	* README.md: Create.
