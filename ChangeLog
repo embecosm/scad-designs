@@ -1,5 +1,16 @@
 2014-04-11  Pierre Langlois  <pierre.langlois@embecosm.com>
 
+	* epiphany-base/epiphany-base.scad: Imported.
+	* epiphany-base/epiphany-base.stl: Ditto.
+	* epiphany-base/epiphany-core.scad: Ditto.
+	* epiphany-base/epiphany-dimensions.scad: Ditto.
+	* epiphany-base/epiphany-parameters.scad: Ditto.
+	* epiphany-base/epiphany-spacer.scad: Ditto.
+	* epiphany-base/epiphany-spacer.stl: Ditto.
+	* epiphany-base/epiphany-top.scad: Ditto.
+
+2014-04-11  Pierre Langlois  <pierre.langlois@embecosm.com>
+
 	* embecosm-logo/embecosm-logo.scad: Create.
 	* embecosm-logo/embecosm-logo.stl: Create.
 
